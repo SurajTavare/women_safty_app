@@ -1,16 +1,22 @@
-# women_safety_app
+# 🛡️ Women Safety App
 
-A new Flutter project.
+A **Flutter + Firebase mobile application** built to ensure women’s safety by providing quick access to emergency services, SOS alerts and trusted contacts communication.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🔑 **Firebase Authentication** – Secure login & signup.
+- ☁️ **Firebase Storage** – Store user-related data safely.
+- 📍 **Nearby Emergencies** – Get nearest **Police Stations, Fire Stations, Hospitals, and Medicals**.
+- 📞 **One-Tap Emergency Call** – Instantly call **Police, Fire, or Ambulance**.
+- 📢 **Offline SOS Message** – Send an emergency SMS to trusted contacts even without internet.
+- 💬 **Parent/Guardian Chat** – Stay connected with parents via real-time chat.
+- 🔔 **Alerts & Notifications** – Get notified in emergency situations.
+- 🧩 **Simple & User-Friendly UI** – Designed for quick access during critical times.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Frontend:** Flutter
+- **Backend & Services:** Firebase (Auth, Firestore, Storage, Realtime DB)
+- **APIs:** Google Maps API, Location Services
